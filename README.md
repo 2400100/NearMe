@@ -206,8 +206,8 @@ sipcot.html
 
 
 ## OUTPUT
-![alt text](project1/myapp/static/map.png)
 ![alt text](project1/myapp/static/hosur.png)
+<img width="1920" height="1200" alt="home (4)" src="https://github.com/user-attachments/assets/c9e29515-252f-4200-bed1-f19a0a51a01b" />
 ![alt text](project1/myapp/static/hotel.png)
 ![alt text](project1/myapp/static/temple1.png)
 ![alt text](project1/myapp/static/temple2.png)
